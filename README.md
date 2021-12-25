@@ -33,9 +33,9 @@
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-amini"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-amini" />
 <img src="https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:ramon@darilearner.com" />
-<img src="https://img.shields.io/badge/-raaamonnn-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ramon_amini"
+<img src="https://img.shields.io/badge/-raaamonnn-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ramon_amini" />
 </p>
 
 
