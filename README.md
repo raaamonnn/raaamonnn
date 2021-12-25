@@ -15,7 +15,6 @@
 <h2 align="center">Technology Stack <img src="https://github.com/raaamonnn/raaamonnn/blob/main/assets/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -37,7 +36,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-amini)](https://www.linkedin.com/in/ramon-amini) 
 [![Gmail Badge](https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:ramon@darilearner.com)](mailto:ramon@darilearner.com)
-<img src="https://img.shields.io/badge/-raaamonnn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ramon_amini"/>
+ [![Linkedin Badge](https://img.shields.io/badge/-raaamonnn-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ramon_amini)](https://www.instagram.com/ramon_amini) 
 </p>
 
 
@@ -56,7 +55,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=raaamonnn&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raaamonnn&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raaamonnn&theme=radical">
 </p>
 
 <p align = "center">
@@ -67,4 +66,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=raaamonnn&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">Thanks for checking out my Page!</p>
