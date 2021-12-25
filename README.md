@@ -24,9 +24,9 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-Agile/Scrum-black?style=flat-square&logo=scrum"/>
- <img src="https://img.shields.io/badge/-Agile/QT-black?style=flat-square&logo=qt"/>
+ <img src="https://img.shields.io/badge/-QT-black?style=flat-square&logo=qt"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
