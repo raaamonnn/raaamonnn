@@ -6,7 +6,6 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/raaamonnn/raaamonnn"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/raaamonnn"/>
  <img src="https://badges.pufler.dev/commits/monthly/raaamonnn" />
 
@@ -38,7 +37,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-amini)](https://www.linkedin.com/in/ramon-amini) 
 [![Gmail Badge](https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:ramon@darilearner.com)](mailto:ramon@darilearner.com)
-<img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/raaamonnn"/>
+<img src="https://img.shields.io/badge/-raaamonnn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ramon_amini"/>
 </p>
 
 
@@ -56,8 +55,8 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=raaamonnn&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raaamonnn&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
