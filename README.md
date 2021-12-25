@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/raaamonnn/raaamonnn/blob/main/assets/bg).png" />
+<img src="https://github.com/raaamonnn/raaamonnn/blob/main/assets/bg.png" />
 
 <p align="center">
  
