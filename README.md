@@ -10,7 +10,7 @@
  <img src="https://badges.pufler.dev/commits/monthly/raaamonnn" />
 </p>
 <p align="center">
-I am an aspiring software engineer with an entrepreneurial drive. I am seeking to join a mission-driven team that is undertaking challenging, change-making problems. I am incredibly passionate about developing iOS/Web applications. This passion is demonstrated through several startup endeavors and personal projects.
+I am a software engineer with an entrepreneurial drive. I am seeking to join a mission-driven team that is undertaking challenging, change-making problems. I am incredibly passionate about developing iOS/Web applications. This passion is demonstrated through several startup endeavors and personal projects.
 </p>
 <h1 align="center"><a href="https://raaamonnn.github.io/">My Portfolio</a></h1>
 <h2 align="center">Technology Stack <img src="https://github.com/raaamonnn/raaamonnn/blob/main/assets/laptop.gif" width="50"></h2>
